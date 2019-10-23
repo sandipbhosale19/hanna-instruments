@@ -18,6 +18,7 @@
         }
     },
     "require": {
+        "magento/data-migration-tool": "2.3.2",
         "magento/magento-cloud-metapackage": ">=2.3.2 <2.3.3"
     },
     "suggest": {
