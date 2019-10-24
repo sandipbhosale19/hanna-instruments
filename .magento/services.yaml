@@ -1,10 +1,11 @@
 # The services of the project.
 #
 # Each service listed will be deployed to power your project.
+#disk space increase 2024 to 4096
 
 mysql:
     type: mysql:10.2
-    disk: 2048
+    disk: 4096
 
 redis:
     type: redis:5.0
